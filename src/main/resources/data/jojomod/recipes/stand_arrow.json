@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    " A ",
+    " I "
+  ],
+  "key": {
+    "D": {
+      "item": "aoa3:bloodstone_block"
+    },
+    "I": {
+      "tag": "aoa3:limonite_rod"
+    },
+    "A": {
+      "item": "aoa3:gemenyte_block"
+    }
+  },
+  "result": {
+    "item": "jojomod:stand_arrow"
+  }
+}
